@@ -13,5 +13,4 @@ Console.WriteLine("branch2");
 Console.WriteLine("branch2.2");
 Console.WriteLine("trial-branch#2");
 
-Console.WriteLine("branch1");
-Console.WriteLine("branch1.2");
+Console.WriteLine("mit_git_cli");
