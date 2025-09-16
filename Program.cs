@@ -1,22 +1,2 @@
-﻿Console.WriteLine("Version #1");
-Console.WriteLine("Add something 1");
-Console.WriteLine("Add something 2");
-Console.WriteLine("new feature");
-Console.WriteLine("new feature 2");
-Console.WriteLine("new feature 3");
-Console.WriteLine("wieder im main");
-
-Console.WriteLine("trial-branch#1");
-Console.WriteLine("trial-branch#2");
-
-Console.WriteLine("branch2");
-Console.WriteLine("branch2.2");
-Console.WriteLine("trial-branch#2");
-
-Console.WriteLine("mit_git_cli");
+﻿Console.WriteLine("noch einer");
 Console.WriteLine("#2");
-
-Console.WriteLine("noch ein versuch");
-Console.WriteLine("#2");
-
-Console.WriteLine("wieder in main");
