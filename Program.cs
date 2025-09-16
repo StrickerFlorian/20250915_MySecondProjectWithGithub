@@ -10,3 +10,4 @@ Console.WriteLine("trial-branch#1");
 Console.WriteLine("trial-branch#2");
 
 Console.WriteLine("branch1");
+Console.WriteLine("branch1.2");
